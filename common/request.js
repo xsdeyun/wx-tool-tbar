@@ -1,4 +1,4 @@
-const baseUrl = 'https://wx.qingyunjian.cn';//http://wjmall.qingyunjian.cn/api.php   prex
+const baseUrl = '';
 var header = {
 	'content-type': 'application/json;charset=utf-8'
 };
