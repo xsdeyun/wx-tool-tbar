@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "TBar 我的",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell"
+  }
+}

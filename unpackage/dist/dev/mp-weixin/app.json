@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/my/problem/problem",
+    "pages/my/aboutOur/aboutOur",
+    "pages/my/feedback/feedback",
+    "pages/my/setps/setps",
+    "pages/tool/videoprint/videoprint",
+    "pages/tool/imageprint/imageprint",
+    "pages/tool/musicextract/musicextract",
+    "pages/tool/musicwyy/musicwyy",
+    "pages/tool/videoprint/videocourse/videocourse",
+    "pages/tool/musicwyy/wymusiccourse/wymusiccourse"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "TBar工具箱",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#1260e6",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/homet.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/icon/my.png",
+        "selectedIconPath": "static/icon/myt.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

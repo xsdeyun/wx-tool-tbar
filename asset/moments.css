@@ -1,0 +1,14 @@
+.tabs{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px 5px 10px 5px;
+	display: flex;
+	justify-content: flex-start;
+}
+.moments-list{
+	padding: 10px 5px 10px 5px;
+}
+.list-item{
+	padding: 15px 0px;
+	border-bottom: 1px solid #f4f4f4;
+}
