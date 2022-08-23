@@ -1,1 +1,0 @@
-.feedback-content{box-sizing:border-box;display:flex;justify-content:center;flex-direction:column;align-items:center;background:#fff}.text-value{width:90%;margin-top:20px;background:#fff;box-shadow:20px 20px 60px #d9d9d9,-20px -20px 60px #d9d9d9;border-radius:5px}.btn{width:90%;margin-top:20px}

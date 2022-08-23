@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "TBar 意见反馈",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
-    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
-  }
-}
